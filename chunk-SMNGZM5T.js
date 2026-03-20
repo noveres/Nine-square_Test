@@ -1,1 +1,0 @@
-import{Fb as s,Za as t,qb as n,rb as p}from"./chunk-UE7LROTO.js";var a=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=t({type:o,selectors:[["app-shop"]],decls:2,vars:0,template:function(e,m){e&1&&(n(0,"p"),s(1,"shop works!"),p())},encapsulation:2})};export{a as ShopComponent};
